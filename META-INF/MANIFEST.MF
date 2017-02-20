@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Manager
+Bundle-SymbolicName: manager
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: edu.asu.snac.manager.Activator
+Import-Package: edu.asu.snac.simpleservice,
+ org.json,
+ org.osgi.framework;version="1.3.0"
